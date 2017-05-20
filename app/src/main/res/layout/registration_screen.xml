@@ -28,7 +28,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:ems="10"
-                android:inputType="text" />
+                android:inputType="textEmailAddress" />
 
             <TextView
                 android:id="@+id/password_text"
@@ -40,7 +40,6 @@
                 android:id="@+id/reg_password_edit"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:mi
                 android:ems="10"
                 android:inputType="textPassword" />
 
